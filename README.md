@@ -1,10 +1,5 @@
  # Hi there, I'm Abhighna👋
 
-Welcome to my GitHub profile!
-
-- 🌱 I’m currently learning: Databricks ,Azure and CI/CD pipelines
-- 🔭 I’m working on: Real Time Project on Retail Data Using PySpark ,SQL, Delta/Delta Live Table, Unity Catalogue, Auto Loader and Streaming
-- 😄 Pronouns: she/her
 
 
 <!--
